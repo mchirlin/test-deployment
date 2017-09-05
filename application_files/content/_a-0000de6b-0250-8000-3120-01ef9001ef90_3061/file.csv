@@ -1,0 +1,570 @@
+INCIDENT_ID,CUSTOMER,INCIDENT_CI,INCIDENT_ASSIGNED_GROUP,INCIDENT_ASSIGNEE,INCIDENT_NOTES,INCIDENT_IMPACT,INCIDENT_URGENCY,INCIDENT_PRIORITY,INCIDENT_ENVIRONMENT,INCIDENT_SUMMARY,INCIDENT_VENDOR_GROUP,INCIDENT_VENDOR_TICKET_NUMBER,INCIDENT_RESOLUTION,INCIDENT_REPORTED_SOURCE,INCIDENT_TYPE,INCIDENT_TARGET_DATE,COMPANY,INCIDENT_STATUS,INCIDENT_PROD_CAT_TIER1,INCIDENT_PROD_CAT_TIER2,INCIDENT_PROD_CAT_TIER3,INCIDENT_OP_CAT_TIER1,INCIDENT_OP_CAT_TIER2,INCIDENT_OP_CAT_TIER3,INCIDENT_RES_PROD_CAT_TIER1,INCIDENT_RES_PROD_CAT_TIER2,INCIDENT_RES_PROD_CAT_TIER3,PRODUCT_NAME_R,INCIDENT_SUBMIT_DATE,INCIDENT_LAST_MODIFIED_BY,INCIDENT_LAST_RESOLVED_DATE,INCIDENT_LAST_MODIFIED_DATE,INCIDENT_RESPONDED_DATE,INCIDENT_OWNER_GROUP,INCIDENT_REPORTED_DATE,INCIDENT_CLOSED_DATE,INCIDENT_SUBMITTER,INCIDENT_PARTNER_ID,INCIDENT_EVENT_TIME,INCIDENT_OPERATED_AND_MAINTAINED_BY,INCIDENT_OPTICAL_NODE,INCIDENT_SLM_STATUS
+INC000003846575,,,Address Management - Spatial,Gideon Laungayan,"Name:	Vishwakarma, Suresh
+Corporate ID:	sureshvishwakarma
+Phone:	###
+Email:	sureshvishwakarma@nbnco.com.au
+Site:	100 Arthur Street, Lvl 10, North Sydney
+================= 
+Issue/Request:
+ 
+Triage (Application):
+
+LOC000158813602
+ORD000041771035 
+
+Service portal - Site qualification - no matching address found - please investigate",3-Moderate/Limited,3-Medium,Medium,PROD,Site qualification - no matching address found,,,The address was obsoleted by NDQ. User advised no action required at this point.,Self Service Incidents,User Service Restoration,,NBNCo IT,Closed,Software,Application,Business Critical,Software,Error Message,App Error,Software,Application,Business Critical,SpatialNET,26/01/2017 18:41,gideonlaungayan,,21/02/2017 14:11,,IT Central,,,,,,,,
+INC000003942113,,,Data Services Group - Spatial,,"Name:  Pratik Chhonker
+Contact: +919990696139
+Username: pratikchhonker
+Email: pratikchhonker@nbnco.com.au
+Preferred Email Address : pratikchhonker@nbnco.com.au
+Location: Offshore
+===========================
+
+Issue: User reported issues with Spatial net 
+
+
+ODS Boundary is not relfecting because of this order is not progressing 
+
+Boundary NAME : 3DRO-20-11
+LOC00008234583
+LOC00063660067
+
+
+Triage : 
+
+** Please provide Preferred Email Address :- 
+ 
+1.	How are you accessing the PNI application (Citrix, laptop or Desktop or VDI (VM)) Citrix
+
+2.	Where are you located (state country office location) Offshore
+
+3.	Is this issue affecting any other users if so how many NA
+
+4.	Is  PNI issue Data or Software related (Data is redirected to Data services group) NA
+
+5.	In which  PNI application are you experiencing the issue  – SpatialNET, AutoCAD, Manage        Network Resource (ordering) DBYD, MAPINFO, FME or FME Server NA
+
+6.	Is this issue relating to  – Installation, tools, menu or access, system issue (Installation is assigned to WIPRO) NA
+
+7.	If this is tool or menu related what is the tool name and menu path is used  NA
+
+8.	If this is a system issue does this relate to the following  is this relating to, Job posting, report or pessimistic locks ( if this is pessimistic locks please advise the caller that they need to contact the users who is in the lock message and ask them to post or cancel their job, unless this is a system account) NA
+9.	Provide a detailed description of the issue NA
+
+10.	What error message is received  -Screen shot required NA
+
+11.	How can the issue be replicated please provide detailed steps NA
+
+12.	Please provide a copy of the input or output files that have been received or used as part of        the process resulting in the issue.
+13.	Have you followed a work instruction, please provide a copy for reference
+
+14.	What impact is this having on your ability to continue working or the service you are providing 
+
+
+Steps Taken: Routing to the Spatailnet team with screen shot 
+
+Outcome: Routing to the Spatailnet team with screen shot",3-Moderate/Limited,3-Medium,Medium,PROD,Boundary issues,,,,Self Service Incidents,User Service Restoration,,NBNCo IT,Assigned,Software,Application,Business Critical,Software,Error Message,App Error,Software,Application,Business Critical,SpatialNET,17/02/2017 16:36,AR_ESCALATOR,,21/02/2017 14:39,,IT Central,,,,,,,,
+INC000003951311,,,Data Services Group - Spatial,,"Name: Kale, Deepali  
+Corporate ID: deepalikale 
+Phone: ### 
+Email: deepalikale@nbnco.com.au 
+Location: Mumbai, India
+===========================
+
+Issue: User reported issues with SpatialNET.
+
+She is requesting to Install Pole for LOC id LOC000080799117
+7 ENID CR, EAST GOSFORD
+
+Please assist user.",3-Moderate/Limited,3-Medium,Medium,PROD,Install Pole for LOC ID,,,,Self Service Incidents,User Service Restoration,,NBNCo IT,Assigned,Software,Application,Business Critical,Software,Error Message,App Error,Software,Application,Business Critical,SpatialNET,20/02/2017 12:41,AR_ESCALATOR,,21/02/2017 14:38,,IT Central,,,,,,,,
+INC000003946667,,,Data Services Group - Spatial,,"Name: mandeep bhogal
+Contact:
+Username:mandeepbhogal
+Email:mandeepbhogal@nbnco.com.au
+
+===========================
+
+Issue: User reported issues with Spatial net 
+
+Triage : THS CPI ID is not reflecting on the PNI dashboard after ODS referesh 
+
+
+ORD020004717905
+LOC000149203733
+CPI300002171118
+4ROT-02-22",3-Moderate/Limited,3-Medium,Medium,PROD,trace API issue,,,,Self Service Incidents,User Service Restoration,,NBNCo IT,Assigned,Software,Application,Business Critical,Software,Error Message,App Error,Software,Application,Business Critical,SpatialNET,18/02/2017 17:43,AR_ESCALATOR,,21/02/2017 14:39,,IT Central,,,,,,,,
+INC000003941524,,,Data Services Group - Spatial,,"Name:	Bhogal, Mandeep
+Corporate ID:	mandeepbhogal
+Phone:	Ping User
+Email:	mandeepbhogal@nbnco.com.au
+Preferred Email Address : mandeepbhogal@nbnco.com.au
+Location: Gurgaon, India
+===========================
+
+Issue: User reported issues with Spatial net . PNI dashboard is not refreshing.
+
+ADA -  3DRO-20-11
+
+ORD020004640506 - CPI300002160850
+
+ORD020004636279 - CPI300002162251
+
+Triage : 
+
+** Please provide Preferred Email Address :- 
+
+1.	How are you accessing the PNI application (Citrix, laptop or Desktop or VDI (VM)) - VDI
+
+2.	Where are you located (state country office location) Gurgaon, India
+
+3.	Is this issue affecting any other users if so how many - No
+
+4.	Is  PNI issue Data or Software related (Data is redirected to Data services group) software related
+
+5.	In which  PNI application are you experiencing the issue  – SpatialNET, AutoCAD, Manage        Network Resource (ordering) DBYD, MAPINFO, FME or FME Server - SpatialNET
+
+
+Steps Taken:  Assigning to PNI team to check
+
+LOC000025260777
+LOC000046328684",3-Moderate/Limited,3-Medium,Medium,PROD,SpatialNET Incident,,,,Self Service Incidents,User Service Restoration,,NBNCo IT,Assigned,Software,Application,Business Critical,Software,Error Message,App Error,Software,Application,Business Critical,SpatialNET,17/02/2017 16:00,AR_ESCALATOR,,21/02/2017 14:38,,IT Central,,,,,,,,
+INC000003952653,,,Data Services Group - Spatial,,"Name: Ajay Singh
+Contact: not reachable by phone
+Username:ajaysingh
+Email:ajaysingh@nbnco.com.au
+Preferred Email Address :ajaysingh@nbnco.com.au (preferred method of contact)
+Location: TCS India
+===========================
+
+Issue: User reported issues with Spatial net 
+
+The user has posted a job in spatialnet however it is not reflecting in spatialnet Dashboard.
+
+The user said that normally it takes about 30mins to reflect in PNI dashboard however it has been more than 1 hr
+
+2 jobs affect, details are:
+LOC000045444499
+3DRO-20-01
+3DRO-20-09
+
+LOC000045444499
+LOC000093369371
+LOC000050715799
+
+Triage : 
+
+** Please provide Preferred Email Address :- ajaysingh@nbnco.com.au
+
+1.	How are you accessing the PNI application (Citrix, laptop or Desktop or VDI (VM)) Citrix
+
+2.	Where are you located (state country office location) TCS India
+
+3.	Is this issue affecting any other users if so how many - 2
+
+5.	In which  PNI application are you experiencing the issue  – SpatialNET
+
+8.	If this is a system issue does this relate to the following  is this relating to, Job posting, report or pessimistic locks ( if this is pessimistic locks please advise the caller that they need to contact the users who is in the lock message and ask them to post or cancel their job, unless this is a system account)
+job posting
+
+9.	Provide a detailed description of the issue
+see above
+
+10.	What error message is received  -Screen shot required
+no error
+
+Steps Taken:
+assigning to PNI for assistance",3-Moderate/Limited,3-Medium,Medium,PROD,ODS refresh,,,,Self Service Incidents,User Service Restoration,,NBNCo IT,Assigned,Software,Application,Business Critical,Software,Error Message,App Error,Software,Application,Business Critical,SpatialNET,20/02/2017 14:06,AR_ESCALATOR,,21/02/2017 14:39,,IT Central,,,,,,,,
+INC000003955078,,,HFC NOC,Gianluca Ragone,"NHAS || WETH WK07:C || Underground LE (24 V) 000000012504766056 down 
+
+
+Node located at: 92 Roland Street, Bossley Park, NSW 2176. 
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+AddressLot 1, 101 Roland Street, Bossley Park, NSW 2176
+Address Latitude & Longitude-33.859923, 150.895779
+NBN Co Location ID LOC000078702743
+
+Place a brief description of the issue reported? Fault Type: Partial Optical Node outage.
+
+State: NSW
+
+Time and Date alarm received:  20/02/2017 6:57:32
+
+Optical Node ID (Hub): WK07
+
+Optical Node Location:  POLDING WETHERILL PARK 2164 NSW, 2 BELAIR PL, PRAIRIEWOOD, NSW 2176
+
+Is this a power outage? No
+
+What is the Power Supply? PS 3A
+
+What are the affected common elements? LE304 + DS amps 305,314,315 are offline. . 
+
+1 x PRI from common element/s: 240579048
+
+PRI400001319968
+Fault Type - Potential Network Fault Investigation",4-Minor/Localized,4-Low,Low,PROD,NHAS || WETH WK07:C || Underground LE (24 V) 000000012504766056 down,,,"Issue/Impact:
+Action:
+Root Cause:
+Network Outage Duration:",Other,Infrastructure Restoration,,NBNCo Operations,Cancelled,NHAS,Optical Node,HFC-Optical Node,Network Incident,Incident,No Data Connection / No Traffic,NHAS,OSP Devices,Amp,,21/02/2017 8:07,AR_ESCALATOR,,21/02/2017 11:27,,HFC NOC,,,,,,,,
+INC000003951186,,,HFC NOC,Claire Prevost,"No signal at the TAP 
+
+No signal at the Wall plate
+No Signal at the PCD -   Isolator 
+Replaced Isolater
+No signal at the TAP 
+Got one spare TAP no signal at the spare TAP
+4port TAP 2 already taken
+Mud and water in the Pit
+Location details
+AddressLot 78, 7 Key Biscayne, Clear Island Waters, QLD
+Unable to find any outages
+Creating a Network Incident
+
+For any additaall infor - Tech Aron -Mobile 0424 145447
+
+Tap: 000000012502894692",4-Minor/Localized,4-Low,Low,PROD,NHAS || Tap: 000000012502894692,,,"Issue/Impact:
+Action:
+Root Cause:
+Network Outage Duration:",Other,Infrastructure Restoration,,NBNCo Operations,Cancelled,NHAS,OSP Devices,Tap,Network Incident,Incident,No Data Connection / No Traffic,NHAS,OSP Devices,Amp,,20/02/2017 12:08,claireprevost,,21/02/2017 2:36,,HFC NOC,,,,,,,,
+INC000003947261,,,HFC NOC,Gianluca Ragone,"HELD ORDER || NHAS || EMPS EP19 || TAP _000000012503922193 4 port 20 dB down 
+
+28 Morbani Rd, Rochedale South, QLD - 4123
+
+LOC000095410161
+
+
+
+""Channel Frequency Modulation Range Pass / Fail MER Pass / Fail BER
+nbnds01 295MHz QAM256 14 Fail 42 Pass 0
+nbnds04 319MHz QAM256 15 Fail 43 Pass 0
+nbnds06 335MHz QAM256 15 Fail 43 Pass 0
+nbnds08 351MHz QAM256 14 Fail 43 Pass 0
+nbnds09 502MHz QAM256 18 Fail 42 Pass 0
+nbnds12 526MHz QAM256 18 Fail 43 Pass 0
+nbnds14 542MHz QAM256 18 Fail 43 Pass 0
+nbnds16 558MHz QAM256 18 Fail 43 Pass 0""
+
+Site Location Details: 
+-------------------------------
+ROCHEDALE SOUTH,QLD-4123",4-Minor/Localized,4-Low,Low,PROD,HELD ORDER || NHAS || EMPS EP19 || TAP _000000012503922193 4 port 20 dB down,,,"Issue/Impact:
+Action:
+Root Cause:
+Network Outage Duration:",Other,Infrastructure Restoration,,NBNCo Operations,Closed,NHAS,OSP Devices,Tap,Network Incident,Complex Held Order,Low RF Downstream,NHAS,OSP Devices,Tap,,19/02/2017 14:45,darsitmehta,,21/02/2017 12:02,,HFC NOC,,,,,,,,
+INC000003953071,,,HFC NOC,JORAWAR WALIA,"NHUR || LE 413 - 000000012502254140 || Amp. down || Brighton, VIC 3186
+
+-----------------------------------------------------------------------------------------
+
+PRI400001245287
+Address: 3 Huntley Street, Brighton, VIC 3186
+NBN Co Location ID LOC000060789057
+
+------------------------------------------------------------------------------------------
+
+LE 413 - 000000012502254140
+Location: 9 Huntley, Brighton, VIC 3186
+
+------------------------------------------------------------------------------------------
+
+Tap ID: 000000012502254200
+8 port 21 dB
+Tap Location: Outside 1 Huntley Street, Brighton, VIC 3186
+
+------------------------------------------------------------------------------------------
+
+Optical Node: ELSK ENME:D
+Optical Node ID: 000000015033769751
+Optial Node Location: LOT 1, 43-47 NEPEAN HWY, ELSTERNWICK, VIC 3185
+
+------------------------------------------------------------------------------------------
+
+Site Location Details: 
+-------------------------------
+BRIGHTON,VIC-3186",4-Minor/Localized,4-Low,Low,PROD,"NHUR || LE 413 - 000000012502254140 || Amp. down || Brighton, VIC 3186",,,"Issue/Impact:
+Action:
+Root Cause:
+Network Outage Duration:",Other,Infrastructure Restoration,21/02/2017 16:00,NBNCo Operations,Closed,NHAS,OSP Devices,Amp,Network Incident,Incident,No Data Connection / No Traffic,NHAS,OSP Devices,Amp,,20/02/2017 15:25,carolinejohnson,,21/02/2017 16:10,,HFC NOC,,,,,,,,
+INC000003946685,,,HFC NOC,Gianluca Ragone,"HELD ORDER || NHAS || ASHM AS05 || TAP 4ASH-60-00-GTD-0001 down 
+
+Spigot  16 Tap 40 port  0 dB
+
+LOC000110759608 - 12 Central Park Avenue, Ashmore, QLD 4214
+
+Site Location Details: 
+-------------------------------
+ASHMORE,QLD-4214
+
+
+-45dbv",4-Minor/Localized,4-Low,Low,PROD,"HELD ORDER || NHAS || ASHM AS05 || TAP 4ASH-60-00-GTD-0001 down 
+
+LOC000110759608",,,"Issue/Impact:
+Action:
+Root Cause:
+Network Outage Duration:",Other,Infrastructure Restoration,,NBNCo Operations,Closed,NHAS,OSP Devices,Tap,Network Incident,Complex Held Order,High RF Downstream,NHAS,OSP Devices,Tap,Tap,19/02/2017 12:55,gianlucaragone,,21/02/2017 17:18,,HFC NOC,,,,,,,,
+INC000003947268,,,HFC NOC,Joshua Marx Donvito,"BATA BT13
+Please have tech attend 2 port 11db tap @ 3 Nunn cl, Bateman. Tap failing DS
+
+Held ORD420000728899
+
+fox ch13  199MHz  QAM64 6.5 Fail
+fox ch18 239MHz QAM64 7.5 Fail
+nbnds01 295MHz QAM256 6.5 Pass
+nbnds06 335MHz QAM256 7.5 Pass
+telds01 359MHz QAM256 6.5 Pass
+telds06 399MHz QAM256 7.5 Pass
+telds09 438MHz QAM256 6.5 Pass
+telds14 478MHz QAM256 6.5 Pass
+fox ch68 626MHz QAM64 6.5 Fail
+fox ch76 690MHz QAM64 6.5 Fail
+fox ch82 738MHz QAM64 6.5 Fail",4-Minor/Localized,4-Low,Low,PROD,HELD ORD NHAS || BATA BT13 - 2 port 11db failing DS,,,"Issue/Impact:
+Action:
+Root Cause:
+Network Outage Duration:",Other,Infrastructure Restoration,,NBNCo Operations,Closed,NHAS,OSP Devices,Tap,Network Incident,Complex Held Order,Low RF Downstream,NHAS,OSP Devices,Tap,,19/02/2017 18:54,eileenmccartney,,21/02/2017 20:51,,HFC NOC,,,,,,,,
+INC000003946705,,,HFC NOC,Gianluca Ragone,"HELD ORDERS || NHAS || JREE JE13 || 4 Port 17 dB _000000012503385860 Down .
+
+
+LOC000002627709
+
+Lot 388, 7 Vincent Pl, Sinnamon Park, QLD
+""nbnds01 295MHz QAM256 -7.1 Fail 28 Fail
+nbnds06 335MHz QAM256 -5.2 Fail 29 Fail
+nbnds09 502MHz QAM256 -5.3 Fail 22 Fail
+nbnds14 542MHz QAM256 -6.8 Fail 28 Fail""
+
+Site Location Details: 
+-------------------------------
+SINNAMON PARK,QLD-4073",4-Minor/Localized,4-Low,Low,PROD,HELD ORDERS || NHAS || JREE JE13 || 4 Port 17 dB _000000012503385860 Down,,,Wrong attenuation for the Tap. Truck roll replaced,Other,Infrastructure Restoration,,NBNCo Operations,Closed,NHAS,OSP Devices,Tap,Network Incident,Complex Held Order,Low RF Downstream,NHAS,OSP Devices,Tap,,19/02/2017 16:17,rajvintisti,,21/02/2017 2:41,,HFC NOC,,,,,,,,
+INC000003955063,,,HFC NOC,Rajvin Tisti,"PRI400001829297
+
+Fault Type: Partial Optical Node outage.
+
+State: VIC
+
+Time and Date alarm received: 2/19/17 10:53:58 PM
+
+Optical Node ID (Hub): WHSG
+
+Optical Node Location: 311 SPRINGVALE RD, GLEN WAVERLEY, VIC 3150
+
+Is this a power outage?NO
+
+What is the Power Supply? 2A
+
+What are the affected common elements? LE201 + DS202,205 are offline.
+
+1 x PRI from common element/s: 419048564
+
+regards,
+Fault Type - Potential Network Fault Investigation",4-Minor/Localized,4-Low,Low,PROD,"NHUR || VIC || WHLL WHSG || LE 201 GNA at cnr of 288 SPRINGVALE RD, GLEN WAVERLEY offline",,,"Issue/Impact:
+Action:
+Root Cause:
+Network Outage Duration:",Other,Infrastructure Restoration,21/02/2017 16:56,NBNCo Operations,Closed,NHAS,OSP Devices,Amp,Network Incident,Incident,No Data Connection / No Traffic,NHAS,OSP Devices,Amp,Amp,21/02/2017 4:38,joshuadonvito,,21/02/2017 15:38,,HFC NOC,,,,,,,,
+INC000003955184,,,HFC NOC,Rajvin Tisti,"INC000003942186//LOC000045786949
+
+20/02/2017 11:15:45 AM, HarryE @ CSC //Sergei@Tech, No signal at the pit. 
+two way tap feeding two houses and no signal at either tap port. 
+
+
+
+=============================================================
+
+Fault Type - Broadband
+
+##DIAGNOSTIC QUESTIONS##
+Date And Time Of Actual Fault - 16/02/2017 21:49:00 PM
+Has The CPE Been Swapped - No
+Has The RF Levels Been Checked - Yes
+Are You Aware Of Any Planned Or Unplanned Power Outages - No
+
+Site Location Details: 
+-------------------------------
+WHEELERS HILL,VIC-3150",4-Minor/Localized,4-Low,Low,PROD,"NHUR || VIC || WHLL WHCH || No signal || Tap 2 port 23dB at 73 Craig Hill Drive, Wheelers Hill, VIC",,,"***SLA met***
+
+Issue/Impact: No signal at tap
+Action: Related to NI INC000003955065 faulty LE 414 outside 81 Craig Hill Dr, tech replaced
+Root Cause: Fault LE amp module
+Network Outage Duration: 14 hours",Other,Infrastructure Restoration,21/02/2017 20:10,NBNCo Operations,Closed,NHAS,OSP Devices,Amp,Network Incident,Incident,No Data Connection / No Traffic,NHAS,OSP Devices,Amp,Amp,21/02/2017 1:59,chanhlam,,21/02/2017 16:01,,HFC NOC,,,,,,,,
+INC000003955172,,,HFC NOC,Rajvin Tisti,"Place a brief description of the issue reported? 1/44 Clarence St, Elsternwick VIC Low Downstream levels, Tap ID: 3CAU-70-00-GTD-0070 
+Node ID: ELSK EWRE:D
+
+- No signal from the network-cable modem offline.
+Tech Reynold called in advising modem is still not going online readings at the tap are out off specs
+•	359MHz DS -1 SNR 32
+•	383MHz DS -1.8 SNR 31
+•	407MHz  DS -1 SNR 32
+•	446MHz DS –0.8 SNR 30
+•	486MHz  DS -.8 SNR 31
+•	Tech confirmed that all ports on the tap have got bad reading.
+•	There is no issue with Lead-in cable issue as he is getting the same at the wall plate. 
+•	So tech advising network issue.
+
+Fault Type - Broadband--INC000003848607  --Unit 1, 44 Clarence Street, Elsternwick, VIC 3185--LOC000038961442
+
+##DIAGNOSTIC QUESTIONS##
+Date And Time Of Actual Fault - 26/01/2017 06:35:00 AM
+Has The CPE Been Swapped - No
+Has The RF Levels Been Checked - Yes
+Are You Aware Of Any Planned Or Unplanned Power Outages - No
+
+Site Location Details: 
+-------------------------------
+ELSTERNWICK,VIC-3185",4-Minor/Localized,4-Low,Low,PROD,"NHUR || ELSK EWRE:D || Low Downstream RF at tap 1/44 Clarence St, Elsternwick, VIC 3185",,,"Issue/Impact: Low levels at TAP
+Action: Tech replaced power block feeding amp and re-alligned levels
+Root Cause: Faulty power block
+Network Outage Duration: 9 hours",Other,Infrastructure Restoration,21/02/2017 13:00,NBNCo Operations,Closed,NHAS,OSP Devices,Amp,Network Incident,Incident,No Data Connection / No Traffic,NHAS,OSP Devices,Amp,Amp,21/02/2017 0:09,chanhlam,,21/02/2017 10:55,,HFC NOC,,,,,,,,
+INC000003955065,,,HFC NOC,Rajvin Tisti,"PRI400000237225
+
+Fault Type: Partial Optical Node outage.
+
+State: VIC
+
+Time and Date alarm received: 20/02/2017 9:50:04 AM
+
+Optical Node ID (Hub):WHCH
+
+Optical Node Location: 1 CRAIG HILL DR, WHEELERS HILL, VIC 3150
+
+Is this a power outage? No 
+
+What is the Power Supply? 4A 
+
+What are the affected common elements? LE 414
+Fault Type - Potential Network Fault Investigation
+
+Site Location Details: 
+-------------------------------
+WHEELERS HILL,VIC-3150",4-Minor/Localized,4-Low,Low,PROD,"NHUR || VIC || WHLL WHCH || Offline || LE 414 (24V) at 81 CRAIG HILL DR, WHEELERS HILL, VIC",,,"***SLA met***
+
+Issue/Impact: Modems offline on LE 414
+Action: faulty LE 414 outside 81 Craig Hill Dr, tech replaced
+Root Cause: Fault LE amp module
+Network Outage Duration: 10 hours",Other,Infrastructure Restoration,21/02/2017 18:04,NBNCo Operations,Closed,NHAS,OSP Devices,Amp,Network Incident,Incident,No Data Connection / No Traffic,NHAS,OSP Devices,Amp,Amp,21/02/2017 5:50,chanhlam,,21/02/2017 16:01,,HFC NOC,,,,,,,,
+INC000003953261,,,HFC NOC,Rajvin Tisti,"-------------
+ Tech Call 
+-------------
+ - 20/2/2017 14:34- Vivek@CSC Tech bryan called in.
+ - no signal at tap
+ - it is 4 port tap and no ports have signals at all
+ - all 4 ports in use
+ - area was affected by storm on weekend
+ - advised tech will pass t",4-Minor/Localized,4-Low,Low,PROD,NHUR || OPTICAL TAP - no readings on all 4 ports,,,Closing this incident as we already breached the SLA for response and the resolution left only for 14hours. So creating new incident now.,Other,Infrastructure Restoration,,NBNCo Operations,Closed,NHAS,OSP Devices,Tap,Network Incident,Incident,No Data Connection / No Traffic,NHAS,OSP Devices,Tap,,20/02/2017 15:02,rajvintisti,,21/02/2017 22:03,,HFC NOC,,,,,,,,
+INC000003955191,,,HFC NOC,Rajvin Tisti,"PRI400000234854
+
+Date Of Call                                          	20.2.17
+Time Tech was Onsite                             	10am
+
+Reason for MCC Referral                        	No signal
+Exsiting NW fault on account    	
+AdditionalInformation                             	No signal , no internet
+CH13 Signal Levels	-2
+CH21 Signal Levels	-4
+CH23 Signal Levels	-9
+CH63 Signal Levels	-11
+CH67 Signal Levels	-17
+CH68 Signal levels	-26
+CH76 Signal Levels	-17
+CH82 Signal Levels	-16
+CH13 MER	36
+CH21 MER	38
+CH23 MER	35
+CH63 MER	32
+CH67 MER	30
+CH68 MER	26
+CH76 MER	26
+CH82 MER	28
+CH13 BER	1.00E-09
+CH21 BER	1.00E-09
+CH23 BER	1.00E-09
+CH63 BER	Nil
+CH67 BER	9.00E-04
+CH68 BER	Nil
+CH76 BER	Nil
+CH82 BER	n/a
+Isolator                                                 	Checked
+F Connector                                           	Checked
+STU Swapped                                           	No
+Fault Type - Potential Network Fault Investigation
+
+Site Location Details: 
+-------------------------------
+WHEELERS HILL,VIC-3150",4-Minor/Localized,4-Low,Low,PROD,"NHAS || VIC || WHLL WHFG || No signal || Tap 4 port 11dB at cnr of 5 Adele Close, Wheelers Hill,VIC",,,"Issue/Impact:
+Action:
+Root Cause:
+Network Outage Duration:",Other,Infrastructure Restoration,21/02/2017 17:26,NBNCo Operations,Closed,NHAS,OSP Devices,Tap,Network Incident,Incident,No Data Connection / No Traffic,NHAS,OSP Devices,Tap,Tap,21/02/2017 5:06,carolinejohnson,,21/02/2017 17:06,,HFC NOC,,,,,,,,
+INC000003946710,,,HFC NOC,Joshua Marx Donvito,"Please have tech attend 4 port 14db tap @ 2 Waitomo st, Broadbeach waters. DS failing 
+
+Held ORD420001241597
+
+Site Location Details: 
+-------------------------------
+BROADBEACH WATERS,QLD-4218",4-Minor/Localized,4-Low,Low,PROD,HELD ORD NHAS || MRAC MM10 - 4 Port 17db - Failing DS,,,"Issue/Impact:
+Action: Replaced tap
+Root Cause: corroded tap
+Network Outage Duration:",Other,Infrastructure Restoration,,NBNCo Operations,Closed,NHAS,OSP Devices,Tap,Network Incident,Complex Held Order,Low RF Downstream,NHAS,OSP Devices,Tap,Tap,19/02/2017 17:48,eileenmccartney,,21/02/2017 19:23,,HFC NOC,,,,,,,,
+INC000003943199,,,HFC NOC,Talha Sadique,"Technician Kim called through and advised multiple services on Node BATA BT11:B are having issues with upstream/activation issues 
+Meter will not lock and get a reading>> Upstream issue, Cannot activate service.
+Below address Kim has advisde are affected: 
+
+>> 36 Chamerlain dr>> INC000003850004 >> AVC400000247341
+>> 26 Morphett st batman>> INC000003889718>> AVC400000308217
+
+
+>> 12 Lysons batement >> LOC000010465729>> AVC400000344821 
+>>7 Lysons bateman >> LOC000054444325>> AVC400000276359 (Order) 
+
+Node: BATA BT11:B",4-Minor/Localized,4-Low,Low,PROD,NHAR || BT11:A>> CM is not locking on to US channel,,,IWF tech-Lachlan 0427512443 identified the fallen out cable from ONS rack. Cable re-connected.,Other,Infrastructure Restoration,20/02/2017 13:00,NBNCo Operations,Closed,NHAS,Optical Node,HFC-Optical Node,Network Incident,Incident,No Data Connection / No Traffic,NHAS,CMTS,CMTS UCAM Card,CMTS UCAM Card,17/02/2017 18:43,talhasadique,,21/02/2017 2:07,,HFC NOC,,,,,,,,
+INC000003947359,,,HFC NOC,Gianluca Ragone,"HELD ORDER || NHAS || JREE JE06:A || 2 port TAP 23 dB 000000012503404563 down
+
+LOC000039412224
+
+Lot 162, 15 Stawell Pl, Middle Park, QLD
+
+
+
+""bnds01 295MHz QAM256 3 Fail 29.6 Fail         0
+nbnds04 319MHz QAM256 2.6 Fail 39.1 Pass 0
+nbnds06 335MHz QAM256 2.2 Fail 39 Pass 0
+nbnds08 351MHz QAM256 3.6 Fail 40.1 Pass 0
+nbnds09 502MHz QAM256 2.6 Fail 39.1 Pass 0
+nbnds12 526MHz QAM256 1.1 Fail 39 Pass 0
+nbnds14 542MHz QAM256 0.9 Fail 38.1 Pass 0
+nbnds16 558MHz QAM256 0.7 Fail 38.3 Pass 0""
+
+Site Location Details: 
+-------------------------------
+MIDDLE PARK,QLD-4074",4-Minor/Localized,4-Low,Low,PROD,HELD ORDER || NHAS || JREE JE06:A || 2 port TAP 23 dB 000000012503404563 down,,,"Issue/Impact:
+Action:
+Root Cause:
+Network Outage Duration:",Other,Infrastructure Restoration,,NBNCo Operations,Closed,NHAS,OSP Devices,Tap,Network Incident,Complex Held Order,Low RF Downstream,NHAS,Optical Node,HFC-Optical Node,,19/02/2017 15:53,gianlucaragone,,21/02/2017 15:41,,HFC NOC,,,,,,,,
+INC000003946712,,,HFC NOC,Joshua Marx Donvito,"MRAC MM07:D
+Please have tech attend 8 port 12db tap @ 65 bordeaux pde, mermaid waters. No signal at tap
+
+Held ORD420001248332
+
+Site Location Details: 
+-------------------------------
+MERMAID WATERS,QLD-4218",4-Minor/Localized,4-Low,Low,PROD,HELD ORDER NHAS || MRAC MM07:D - no signal at tap,,,"Issue/Impact:
+Action:
+Root Cause:
+Network Outage Duration:",Other,Infrastructure Restoration,,NBNCo Operations,Closed,NHAS,OSP Devices,Tap,Network Incident,Complex Held Order,No RF,NHAS,OSP Devices,Tap,Tap,19/02/2017 18:02,gianlucaragone,,21/02/2017 16:25,,HFC NOC,,,,,,,,
+INC000003946688,,,HFC NOC,Gianluca Ragone,"HELD ORDER || NHAS || ASHM AS06:C || TAP _000000001803206678 down
+
+
+LOC000021600537 - 71 Macquarie Av, Molendinar, QLD
+
+""Frequency  Range MER
+295   -4.2   29
+319    -4.2   28
+335    -3.9   30
+351    -5      29
+502    -2.4   31
+526     -3     29
+542     -4.1   30
+558     -3.5   28""",4-Minor/Localized,4-Low,Low,PROD,HELD ORDER || NHAS || ASHM AS06:C || TAP _000000001803206678 down,,,"Issue/Impact:
+Action:
+Root Cause:
+Network Outage Duration:",Other,Infrastructure Restoration,,NBNCo Operations,Closed,NHAS,OSP Devices,Tap,Network Incident,Complex Held Order,Low RF Downstream,NHAS,OSP Devices,Tap,Tap,19/02/2017 13:44,gianlucaragone,,21/02/2017 9:12,,HFC NOC,,,,,,,,
